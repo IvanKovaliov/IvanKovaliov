@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ---
@@ -64,6 +66,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical" alt="Статистика GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical" alt="Топ языков" />
+</div>
+
+---
+
+## 🎨 **Графики активности**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ваш_username&theme=react-dark&hide_border=true&area=true" alt="График активности" />
+</div>
+
+---
+
+## 🏆 **Достижения**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ваш_username&theme=onedark&no-frame=true&row=1&column=7" alt="Достижения" />
 </div>
 
 ---
